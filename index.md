@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<HTML>
 
-You can use the [editor on GitHub](https://github.com/Miiko1310/ATEEZ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<HEAD>
+<TITLE>ATEEZ(에이티즈)</TITLE>
+</HEAD>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<BODY BGCOLOR="LIGHTPINK">
+<center>
+</i>
+<i><font size="72"><H1>ATEEZ(에이티즈)</H1></font></i>
+<h2>
+<img src="ATEEZ.jpg"<center>
+</h2>
+<b><font size="18">
+Ateez (에이티즈) to ośmioosobowy, południowokoreańśki boysband,który zadebiutował 24 paździenika 
+z piosenką "Pirate King" oraz minialbumem "Treasure EP. 1: All To Zero",pod skrzydłami 
+wytwórni KQ Entertainment. Nazwa ich oficjalnego fanklubu to Atiny (ATEEZ + Destiny).
+<br>" 8 Makes 1 Team "
+</b></font>
+<font size="24"><H1>CZŁONKOWIE</H1></font></i>
+<font size="12"><b>
+HONGJOONG</b>
+<br><img src="Wilczyca.jpg"<center>
+<br><font size="6">Pełne imię i nazwisko: Kim Hong Joong
+<br>Data urodzenia:07.11.1998
+<br>Wzrost: 172cm
+<br>Pozycja w zespole: lider, raper, kompozytor
+<br>Cechy szczególne: małe rączki
+<br><font size="12">
+<br><b>SEONGHWA</b>
+<font size="6">
+<br><img src="Seonghwa.jpg"<center>
+<br>Pełne imię i nazwisko: Park Seong Hwa
+<br>Data urodzenia: 03.04.1998
+<br>Wzrost: 178cm
+<br>Pozycja w zespole: wokaista, visual
+<br>Cechy szczególne: disgusted face
+<br><font size="12">
+<br><b>YUNHO</b>
+<font size="6">
+<br><img src="Yunho.jpg"<center>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</BODY>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Miiko1310/ATEEZ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</HTML>
